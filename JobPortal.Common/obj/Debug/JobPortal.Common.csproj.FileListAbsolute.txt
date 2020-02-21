@@ -1,0 +1,5 @@
+E:\Online Job Portal\JobPortal.Common\bin\Debug\JobPortal.Common.dll
+E:\Online Job Portal\JobPortal.Common\bin\Debug\JobPortal.Common.pdb
+E:\Online Job Portal\JobPortal.Common\obj\Debug\JobPortal.Common.dll
+E:\Online Job Portal\JobPortal.Common\obj\Debug\JobPortal.Common.pdb
+E:\Online Job Portal\JobPortal.Common\obj\Debug\JobPortal.Common.csprojAssemblyReference.cache
